@@ -562,6 +562,10 @@ video {
   margin-top: 1.25rem;
 }
 
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .grid {
   display: grid;
 }
@@ -646,6 +650,11 @@ video {
 
 .text-\[2rem\] {
   font-size: 2rem;
+}
+
+.text-7xl {
+  font-size: 4.5rem;
+  line-height: 1;
 }
 
 .font-bold {
